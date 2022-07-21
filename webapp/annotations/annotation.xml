@@ -29,6 +29,7 @@
                             </PropertyValue>
                         </Record>
                     </Annotation>
+                    <Annotation Term="Common.ValueListWithFixedValues"/>
             </Annotations>
             <Annotations Target="NorthwindModel.Product/ProductID">
                 <Annotation Term="Common.Text" Path="ProductName"/>
